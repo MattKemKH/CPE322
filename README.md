@@ -22,4 +22,4 @@ Some of my goals in life are:
 using `git status` will probably be a useful command for this course
 
 ---
-You can get back to my repo home page by clicking [here]()
+You can get back to my repo home page by clicking [here](https://github.com/MattKemKH/CPE322/tree/main)
