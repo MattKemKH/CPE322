@@ -23,3 +23,4 @@ using `git status` will probably be a useful command for this course
 
 ---
 You can get back to my repo home page by clicking [here](https://github.com/MattKemKH/CPE322/tree/main)
+Or if you want to smile, take a look at a Samoyed [here](https://image.petmd.com/files/inline-images/samoyed-4.jpg?VersionId=2pXoyrhMGX5Q0FESF0ycnVPl8W8Cm484) (my favorite dog)
