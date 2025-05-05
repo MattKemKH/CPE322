@@ -1,3 +1,5 @@
+### Matthew Kemenosh
+### Lab 1 - GHDL and GTKWave
 ## Half Adder Example
 ![screenshot of Half Adder)](HAex.png)
 This simulation demonstrates the behavior of a half adder circuit. The input signals are a and b, while the outputs are s (sum) and c (carry). The results follow expected logic: When both a and b are 0, s and c are also 0. When either a or b is 1 (but not both), s is 1 and c is 0. When both a and b are 1, the sum s becomes 0 and the carry c is set to 1.
