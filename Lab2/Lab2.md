@@ -45,10 +45,12 @@ converted to uname --help, opens the manual page for the 'uname' command. Manual
 Provides a comprehensive list of all network interfaces along with their respective IP addresses, MAC addresses, and other relevant details. Converted to ipconfig, and I also added ipconfig /all to show the full configurations, with the important info blacked out ;P
 ![screenshot of ipconfig)](ipconfig.png)
 ![screenshot of ipconfig)](ipconfigall.png)
-![screenshot of ps)](.png)
+
 ### ping localhost
 Sends network packets to your own machine to check if the network stack is functioning properly.
-![screenshot of ps)](.png)
+![screenshot of ping localhost)](ping_lh.png)
 ### netstat
 Displays information about your network connections, including active TCP connections, listening ports, routing table details, and network interface statistics.
-![screenshot of ps)](.png)
+![screenshot of ns)](ns1.png)
+![screenshot of ns)](ns2.png)
+![screenshot of ns)](ns3.png)
