@@ -27,7 +27,7 @@ Combining both cd iot and ls commands. cd iot changes the working directory to I
 combining cd, df, anf mkdir demo. cd should take you back to your home directory, but for windows terminal, I used cd .. to get back to home directory. df displays information about disk space on a file system. mkdir demo makes a new directory named demo.
 ![screenshot of cd, df, mkdir demo)](cd_df_mkdir.png)
 ### cd demo
-Changes the current working directory to demo
+Changes the current working directory to demo.
 ![screenshot of cd demo)](cd_demo.png)
 ### nano file :  cat file
 nano file opens a blank text editor where you can type to edit/add to the file since a file named 'file' does net yet exist. Once something is added, hit write out to save these changes into a file named 'file', and then returns you to the terminal. cat file displays the contents of 'file', which in this case says these are the contents in the nano file, skibidi.
