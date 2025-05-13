@@ -1,10 +1,14 @@
 ## Matthew Kemenosh
-## Lab 9 - YANG
-### Installing WSL, pyang, and PlantUML
-![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab9/pics/
-### copy ~/iot/lesson9/intrusiondetection.yang to ~/demo
-![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab9/pics/
-### Run pyang to generate intrusiondetection.yin and intrusiondetection.uml
-![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab9/pics/
-### Run PlantUML to generate intrusiondetection.png
-![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab9/pics/
+## Lab 7 -  ThingSpeak and Google Sheets
+### Sign up and log in MathWorks ThingSpeak
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
+### Run thingspeak_cpu_loop.py or thinkspeak_feed.py in a demo folder
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
+### Install gspread and oauth2client
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
+### Log in the Google Cloud Platform Identity and Access Management, create a project cpudata, enable both Drive API and Sheets API, create and download service account JSON key file
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
+### Start a new Google sheet cpudata, share it with the client email in the JSON file, delete Rows 2 to 1000, and edit the header cells
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
+### Run cpu_spreadsheet.py with the JSON key file in a demo folder
+![screenshot of installing)](https://github.com/MattKemKH/CPE322/blob/main/Lab7/pics/
